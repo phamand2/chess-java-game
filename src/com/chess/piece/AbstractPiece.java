@@ -3,7 +3,7 @@ package com.chess.piece;
 import com.chess.squares.Square;
 
 public class AbstractPiece {
-    protected  String name;
+    protected String name;
     protected PieceColor pieceColor;
     protected Square currentSquare;
 
